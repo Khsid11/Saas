@@ -24,7 +24,7 @@ This project is a SaaS-based solution that provides a comprehensive booking syst
 ![Analytics](./analytics-screenshot.png)
 *Analytics section displaying customer booking patterns*
 
-![Booking Page](./bpt.png)
+![Booking Page](./bp.png)
 *Custom booking page for users*
 
 
