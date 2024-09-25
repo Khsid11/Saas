@@ -18,13 +18,13 @@ This project is a SaaS-based solution that provides a comprehensive booking syst
 
   ## Screenshots
 
-![Dashboard](./images/dashboard-screenshot.png)
+![Dashboard](./dashboard-screenshot.png)
 *Dashboard showing upcoming bookings and analytics*
 
-![Analytics](./images/analytics-screenshot.png)
+![Analytics](./analytics-screenshot.png)
 *Analytics section displaying customer booking patterns*
 
-![Booking Page](./images/booking-page-screenshot.png)
+![Booking Page](./bpt.png)
 *Custom booking page for users*
 
 
