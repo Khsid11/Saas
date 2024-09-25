@@ -16,7 +16,6 @@ This project is a Software as a Service (SaaS) solution that allows users to cre
 ## Features
 - **Custom Sub-Domain Booking Pages:** Each user can create a personalized booking page with a unique sub-domain.
 - **Sharable Links:** Users can generate and share links to their booking pages.
-- **Integrated Payment Gateways:** Seamless payment processing through various gateways.
 - **CRM Features:** Manage bookings, track users, and write notes for customer interactions.
 - **Analytics Dashboard:** Access insights and analytics for bookings and user interactions.
 
@@ -24,8 +23,7 @@ This project is a Software as a Service (SaaS) solution that allows users to cre
 - **Frontend:** React.js, HTML5, CSS3
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Payment Integration:** [Payment Gateway API used]
-- **Deployment:** [Hosting Service Used]
+
 
 ## Installation
 ### Prerequisites
