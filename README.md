@@ -1,37 +1,50 @@
-# SaaS Solution for Custom Booking Pages
-
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+# SaaS Booking and CRM Solution
 
 ## Overview
-This project is a Software as a Service (SaaS) solution that allows users to create custom booking pages. It provides an integrated platform where users can manage bookings, handle payments, and access analytics for better decision-making.
+
+This project is a SaaS-based solution that provides a comprehensive booking system integrated with Customer Relationship Management (CRM) functionalities. Designed for businesses in various sectors, such as healthcare, hospitality, and personal services, this solution streamlines the appointment scheduling process while enhancing customer relationships and data management.
 
 ## Features
-- **Custom Sub-Domain Booking Pages:** Each user can create a personalized booking page with a unique sub-domain.
-- **Sharable Links:** Users can generate and share links to their booking pages.
-- **CRM Features:** Manage bookings, track users, and write notes for customer interactions.
-- **Analytics Dashboard:** Access insights and analytics for bookings and user interactions.
 
-## Technology Stack
-- **Frontend:** React.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Custom Sub-domain Booking Pages**: Each business can have its own sub-domain for bookings, making it easy for customers to access and schedule appointments.
+  
+- **CRM Functionalities**: Manage customer interactions, track preferences, and enhance relationships through personalized communication.
 
+- **User Analytics**: Analyze booking patterns and customer behavior to make informed business decisions.
+
+- **Automated Notifications**: Send reminders and confirmations via email and SMS to reduce no-shows and keep customers informed.
+
+- **Responsive Design**: The application is built to be user-friendly on both desktop and mobile devices.
+
+  ## Screenshots
+
+![Dashboard](./images/dashboard-screenshot.png)
+*Dashboard showing upcoming bookings and analytics*
+
+![Analytics](./images/analytics-screenshot.png)
+*Analytics section displaying customer booking patterns*
+
+![Booking Page](./images/booking-page-screenshot.png)
+*Custom booking page for users*
+
+
+## Technologies Used
+
+- **Frontend**: React.js, HTML, CSS
+- **Backend**: Node.js, Express.js
+- **Authentication**: JSON Web Tokens (JWT)
+- **Data Visualization**: Chart.js
 
 ## Installation
+
 ### Prerequisites
-- Node.js and npm installed on your machine.
-- MongoDB set up and running (local or cloud).
+
+- React
+- Node.js and npm
+
 
 ### Steps
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
-   cd REPO_NAME
+   git clone https://github.com/khsid11/Saas.git
