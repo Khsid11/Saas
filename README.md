@@ -18,6 +18,8 @@ This project is a SaaS-based solution that provides a comprehensive booking syst
 
   ## Screenshots
 
+![Home](./Home.png)
+
 ![Dashboard](./dashboard-screenshot.png)
 *Dashboard showing upcoming bookings and analytics*
 
